@@ -1,0 +1,16 @@
+E:\Souce Code TT\GUI\DAL\bin\Debug\DAL.dll
+E:\Souce Code TT\GUI\DAL\bin\Debug\DAL.pdb
+E:\Souce Code TT\GUI\DAL\bin\Debug\DTO.dll
+E:\Souce Code TT\GUI\DAL\bin\Debug\DTO.pdb
+E:\Souce Code TT\GUI\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Souce Code TT\GUI\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Souce Code TT\GUI\DAL\obj\Debug\DAL.dll
+E:\Souce Code TT\GUI\DAL\obj\Debug\DAL.pdb
+E:\Souce Code TT\ChuongTrinhQuanLyKhachSan\DAL\bin\Debug\DAL.dll
+E:\Souce Code TT\ChuongTrinhQuanLyKhachSan\DAL\bin\Debug\DAL.pdb
+E:\Souce Code TT\ChuongTrinhQuanLyKhachSan\DAL\bin\Debug\DTO.dll
+E:\Souce Code TT\ChuongTrinhQuanLyKhachSan\DAL\bin\Debug\DTO.pdb
+E:\Souce Code TT\ChuongTrinhQuanLyKhachSan\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Souce Code TT\ChuongTrinhQuanLyKhachSan\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Souce Code TT\ChuongTrinhQuanLyKhachSan\DAL\obj\Debug\DAL.dll
+E:\Souce Code TT\ChuongTrinhQuanLyKhachSan\DAL\obj\Debug\DAL.pdb

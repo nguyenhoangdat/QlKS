@@ -1,0 +1,6 @@
+E:\Souce Code TT\GUI\DTO\bin\Debug\DTO.dll
+E:\Souce Code TT\GUI\DTO\bin\Debug\DTO.pdb
+E:\Souce Code TT\GUI\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Souce Code TT\GUI\DTO\obj\Debug\DTO.dll
+E:\Souce Code TT\GUI\DTO\obj\Debug\DTO.pdb
+E:\Souce Code TT\GUI\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
